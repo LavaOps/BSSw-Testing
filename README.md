@@ -1,2 +1,2 @@
 # BSSw-Testing
-Testing Modules BSSw
+This repository holds presentation slides and videos on software tesitng for scientific software
